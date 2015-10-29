@@ -1,5 +1,4 @@
 # HTML & CSS Boilerplate
-A new beginning!
+A NEW BEGINNING!
 
 This boilerplate uses HTML, CSS, and Javascript.  It is a great starting point for ***any*** project!
- 
